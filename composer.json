@@ -21,9 +21,6 @@
     "source": "https://github.com/mindkomm/timber-integration-woocommerce",
     "docs": "https://timber.github.io/docs/integrations/woocommerce"
   },
-  "require": {
-    "php": "7.*"
-  },
   "autoload": {
     "psr-4": {
       "Timber\\Integrations\\WooCommerce\\": "lib/"
